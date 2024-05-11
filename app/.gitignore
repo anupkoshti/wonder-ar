@@ -1,1 +1,4 @@
 /build
+# firebase-auth-key.json
+# google-services.json
+*.json
